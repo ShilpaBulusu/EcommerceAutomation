@@ -1,0 +1,1 @@
+pytest -v -s TestCases/test_login.py --browser chrome --config_section test_login --html=Reports/report.html
